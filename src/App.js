@@ -30,7 +30,7 @@ function App() {
   
   }
   return (
-    <div className="App" style={{background:"rgba(234, 16, 1, 0.69)",height:"100vh"}}>
+    <div className="App" >
       
   
 <section className="background-radial-gradient overflow-hidden" > 
@@ -40,8 +40,8 @@ function App() {
     <div className="row gx-lg-5 align-items-center mb-5" >
     <div className="col-lg-6 mb-5 mb-lg-0 position-relative" >
 
-        <div className="card bg-glass" style={{background:"rgba(1,1,3,0.2)"}}>
-          <div className="card-body px-4 py-5 px-md-5">
+        <div className="card bg-glass" >
+          <div className="card-body px-4 py-5 px-md-5" style={{backgroundColor:"rgba(1,1,1,0.6)"}}>
             <form>
 
 
